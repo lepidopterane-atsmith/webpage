@@ -27,7 +27,7 @@ ggplot(mtcars, aes(x=cyl, y= mpg)) +
 ```
 
 
-# My second section
+# My second best section
 
 ```{r}
 head(mtcars)
