@@ -18,5 +18,5 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Sarah Abowitz"
       href: about.html
